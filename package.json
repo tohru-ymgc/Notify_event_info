@@ -1,0 +1,27 @@
+{
+  "name": "notify_event_info",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tohru-ymgc/Notify_event_info.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tohru-ymgc/Notify_event_info/issues"
+  },
+  "homepage": "https://github.com/tohru-ymgc/Notify_event_info#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^16.0.0"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
